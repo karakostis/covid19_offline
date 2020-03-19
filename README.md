@@ -1,4 +1,4 @@
-COVID-19 OFFLINE
+**COVID-19 OFFLINE**
 
 COVID-19 OFFLINE is a simple, webapp with a color-coded map of the Corona-19 deaths globally. The application is very light and can work with low internet connectivity. It is ideal for a quick visual assesment of the information especially on areas of 
 low connectivity.
