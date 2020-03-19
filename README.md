@@ -10,6 +10,9 @@ How to use
 2. Open the folder and double click in the index.html file;
 3. Go to data folder and drag&drop the geojson file on the open window;
 
+Alternatively you can access the application here: https://karakostis.github.io/covid19_offline/
+Then drag&drop the data in the repository in order to visualize the map.
+
 **Important**
 * The repository will be updated with latest data in a daily basis; 
 * Currently there is no legend integrated in the app. You can find the legend [here](https://github.com/karakostis/covid19_offline/blob/master/legend.png);
