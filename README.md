@@ -12,7 +12,7 @@ How to use
 
 **Important**
 * The repository will be updated with latest data in a daily basis; 
-* Currently there is no legend integrated in the app. You can find the legend [here](https://github.com/karakostis/covid19_offline/blob/master/legend.png).
+* Currently there is no legend integrated in the app. You can find the legend [here](https://github.com/karakostis/covid19_offline/blob/master/legend.png);
 
 **Source of data**: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 
